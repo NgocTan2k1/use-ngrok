@@ -1,0 +1,18 @@
+step 1: download => unzip => login: https://dashboard.ngrok.com/signup 
+
+step 2: run cmd from folder present.
+
+step 3: After login account:
+2. Connect your account
+--> copy and paste in cmd
+=>Authtoken will be saved location in memory
+
+3. Fire it up
+--> ngrok help => to need help
+--> ngrok http 80 => run with port 80(5050,5555,5000,...)
+
+step 4: After "ngrok http 80"
+example: 
+at "Forwarding https://18c9-2402-800-620f-d21b-5536-74f9-bf4d-437e.ap.ngrok.io -> http://localhost:80"
+
+send url: https://18c9-2402-800-620f-d21b-5536-74f9-bf4d-437e.ap.ngrok.io for people
